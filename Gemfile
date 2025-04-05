@@ -14,3 +14,8 @@ end
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick", "~> 1.9"
+
+
+gem "jekyll", "~> 4.2.0"
+gem "jekyll-theme-chirpy"
+gem "github-pages", group: :jekyll_plugins
